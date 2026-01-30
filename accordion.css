@@ -1,0 +1,18 @@
+.buttons{
+    display: flex;
+    margin-bottom: 5px;
+    background-color: black;
+    color: white;   
+    font-size: 16px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+}
+
+.texts{
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    border-style: solid;
+    font-size: 16px;
+}
